@@ -1,5 +1,5 @@
 ---
-name: Documentation template
+name: Documentation Request
 about: Wnat something documented on server wiki.
 title: "[Docu] title"
 labels: documentation
